@@ -81,7 +81,12 @@ img {
   .row{
     margin-top: 0;
     padding: 30px 15px;
-    font-size: 25px;
+    font-size: 15px;
+    width: 100%;
+
+  }
+  img {
+    height: 100px;
   }
 
   #lezioni .row ,
@@ -103,17 +108,16 @@ img {
 
   }
   h1{
-    font-size: 50px;
+    font-size: 40px;
   }
 
   h3{
-    font-size: 30px;
+    font-size: 20px;
   }
 
   hr{
   border: black 1px solid;
-  margin: auto;
-  width: 90%;
+  
 }
 }
 
@@ -127,7 +131,12 @@ img {
   .row{
     margin-top: 0;
     padding: 30px 15px;
-    font-size: 25px;
+    font-size: 15px;
+    width: 100%;
+  }
+
+  img {
+    height: 100px;
   }
 
   #lezioni .row ,
@@ -145,16 +154,15 @@ img {
   
   }
   h1{
-    font-size: 50px;
+    font-size: 40px;
   }
 
   h3{
-    font-size: 30px;
+    font-size: 20px;
   }
 
   hr{
   border: black 1px solid;
-  margin: auto;
-  width: 90%;
+  
 }
 }
